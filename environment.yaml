@@ -1,4 +1,4 @@
-name: heart_uci_toy
+name: heart-uci-toy
 channels:
 - conda-forge
 dependencies:
